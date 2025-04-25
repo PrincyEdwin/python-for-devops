@@ -28,3 +28,14 @@ print("Modulus", a%b)
 # Exponents
 
 print("Exponents", a**b)
+
+# BitwiseAND
+
+print("Bitwise AND", a>b)
+
+# Bitwise OR
+
+print("Bitwise OR", a>=b)
+print("Comparing", a==b)
+print("Not Equal", a!=b)
+print("Less than or Equal", a<=b)
